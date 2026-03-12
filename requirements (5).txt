@@ -1,0 +1,12 @@
+# ================================================================
+#  requirements.txt — SocioSaas Pro
+#  Developer: Ghulam Hussain
+#
+#  ONLY these packages are needed.
+#  sqlite3, hashlib, uuid, re, time, datetime are Python stdlib.
+#  No firebase_utils.py or any other external file needed.
+# ================================================================
+
+streamlit>=1.35.0
+streamlit-gsheets-connection>=0.0.5
+pandas>=2.0.0
